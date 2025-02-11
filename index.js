@@ -5,6 +5,7 @@ var fetch = require("node-fetch");
 // const Database = require("@replit/database")
 // const db = new Database()
 
+
 // console.clear();
 console.log(chalk.hex('#fff200')(`
 
