@@ -5,6 +5,13 @@ var fetch = require("node-fetch");
 // const Database = require("@replit/database")
 // const db = new Database()
 
+function add(a,b) {
+  return a+b;
+}
+
+console.log("Hello world", add(1,2))
+
+
 // console.clear();
 console.log(chalk.hex('#fff200')(`
 
